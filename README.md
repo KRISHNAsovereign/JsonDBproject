@@ -24,8 +24,6 @@ This project is a simple web-based form to manage employee details using Bootstr
 8. [Sources](#sources)
 9. [Other information](#other-information)
 
-## Illustrations
-![Form Screenshot](https://drive.google.com/file/d/1LlWCzVvnpqtf5a0s2sKOoUgPZi0ozrAf/view?usp=sharing)
 
 
 ## Scope of functionalities
